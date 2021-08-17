@@ -3,17 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Covid-19 | CodingBattalion</title>
+    <title>Covid-19 | Rohitdevdesigns</title>
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap" rel="stylesheet">
 <link rel="stylesheet/less" type="text/css" href="css/style.less" />
 
  <meta name="description" content="Wake up - Stay home - sleep well - Repeat ">
     <meta name="keywords" content="india, coronavirus, covid-19, virus">
-    <meta name="author" content="CodingBattalion">
-    <meta name="copyright" content="codingbattalion" />
+    <meta name="author" content="rohitdevdesigns">
+    <meta name="copyright" content="rohitdevdesigns" />
 <meta name="language" content="English" />
 <meta name="robots" content="index, follow" />
-<meta name="contact" content="codingbattalion.com">
 <meta name="robots" content="NOODP" />
 <meta name="googlebot" content="index, follow" />
 <meta name="bingbot" content="index, follow" />
@@ -21,8 +20,6 @@
 <meta name="allow-search" content="yes" />
   <meta name="geo.position" content="28.6438195; 77.2918434">
 <meta name="geo.placename" content="India">
-<meta name="geo.region" content="Bihar">
-<meta property="og:url" content="http://codingbattalion.com/covid" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
 </head>
@@ -35,7 +32,7 @@
     <nav class="navbar">
       <ul class="navbar-nav">
         <li class="nav-item has-dropdown">  
-          <a href="../index.html" class="round">
+          <a href="index.php" class="round">
               
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 2 98 98" style="enable-background:new 0 2 98 98;" xml:space="preserve" width="1.5rem" height="2.5rem">
@@ -220,7 +217,7 @@ At this time, there are no specific vaccines or treatments for COVID-19. However
 
         <div class="grid-footer1">
     <div class="footer">We stand with everyone fighting on the frontlines</div>
-    <div class="footer2">CodingBattalion</div>
+    <div class="footer2">RohitDevDesigns</div>
         </div>
 
         <div class="side-bar2"></div>
